@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APITask", "APITask\APITask.csproj", "{61C62301-55EB-47EE-A712-8005BD918827}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61C62301-55EB-47EE-A712-8005BD918827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61C62301-55EB-47EE-A712-8005BD918827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61C62301-55EB-47EE-A712-8005BD918827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61C62301-55EB-47EE-A712-8005BD918827}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8047D420-1E5E-440E-8E91-3743FD0D3AF8}
+	EndGlobalSection
+EndGlobal
